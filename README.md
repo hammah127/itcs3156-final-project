@@ -12,14 +12,6 @@ Dataset:
 It has customer reviews, ratings, and product details on various clothing items.
 ~~~
 
-Features used:
-- age
-- positive feedback count
-- department name
-- class name
-target variable: popular-> 1 if rating ≥ 4, and if not 0
-~~~
-
 Models implemented:
 - Linear regression: Gradient descent
 - Perceptron Classifier
