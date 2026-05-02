@@ -3,7 +3,8 @@ Final project for Intro to Machine Learning (ITCS-3156)
 ~~~
 
 Overview: In this project, I compare two different machine learning models:
-a linear regression model using gradient descent, and a perceptron classifier that classifies clothing items as popular or not popular.
+a linear regression model using gradient descent, and a perceptron classifier
+that classifies clothing items as popular or not popular.
 ~~~
 
 Dataset:
